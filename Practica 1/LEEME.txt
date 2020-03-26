@@ -1,0 +1,6 @@
+AUTORES:
+	Aitor Arnaiz del Val
+	Andres Salas Peña
+
+Se entrega junto a ambos codigos .vhd un fichero Programa con los datos con los que 
+hemos simulado ambos proyectos para probar otras instrucciones como el addi.

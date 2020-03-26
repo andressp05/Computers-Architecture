@@ -1,0 +1,9 @@
+Grupo 1301 - Pareja 29
+Andrés Salas Peña
+Aitor Arnaiz del Val
+
+
+En el ejercicio 3, al ejecutar el programa en los laboratorios de la eps,
+se nos olvidó guardar el fichero mult.dat. En su defecto, se incluyen las gráficas
+usadas en la memoria, y una ejecución del ejercicio 3 para un ordenador personal.
+De todas formas, se puede ejecutar el script y daría resultados similares.

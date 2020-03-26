@@ -1,0 +1,5 @@
+AUTORES:
+	Aitor Arnaiz del Val
+	Andres Salas Peña
+
+Se entrega junto a ambos codigos .vhd un fichero p2e2.asm que es el creado para la segunda parte de la practica
